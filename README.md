@@ -1,3 +1,3 @@
 # ml-mipt
 
-A machine learning package for computing measurement induces phase transitions.
+A machine learning algorithm for computing measurement induced phase transitions.
